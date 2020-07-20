@@ -1,1 +1,1 @@
-#### Blockchain que será integrado a arquitetura de névoa SOFT-IOT
+#### Aplicação Tangle focado para Internet das Coisas
